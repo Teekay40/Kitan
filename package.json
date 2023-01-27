@@ -1,0 +1,17 @@
+{
+  "name": "kitan",
+  "version": "1.0.0",
+  "description": "Kitan",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "timilehin ibigbami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "run": "^1.4.0"
+  }
+}
